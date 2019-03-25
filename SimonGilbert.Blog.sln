@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimonGilbert.Blog", "SimonGilbert.Blog\SimonGilbert.Blog.csproj", "{627764A2-F0E6-431B-99F6-E4F647590C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimonGilbert.Blog.Services", "SimonGilbert.Blog.Services\SimonGilbert.Blog.Services.csproj", "{C39BA831-2B9C-409E-9F45-A55035FF84C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimonGilbert.Blog.ViewModels", "SimonGilbert.Blog.ViewModels\SimonGilbert.Blog.ViewModels.csproj", "{5519FB1D-9BA9-4418-A0D0-219410AFBBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{627764A2-F0E6-431B-99F6-E4F647590C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627764A2-F0E6-431B-99F6-E4F647590C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627764A2-F0E6-431B-99F6-E4F647590C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627764A2-F0E6-431B-99F6-E4F647590C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C39BA831-2B9C-409E-9F45-A55035FF84C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39BA831-2B9C-409E-9F45-A55035FF84C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39BA831-2B9C-409E-9F45-A55035FF84C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39BA831-2B9C-409E-9F45-A55035FF84C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5519FB1D-9BA9-4418-A0D0-219410AFBBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5519FB1D-9BA9-4418-A0D0-219410AFBBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5519FB1D-9BA9-4418-A0D0-219410AFBBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5519FB1D-9BA9-4418-A0D0-219410AFBBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
